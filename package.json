@@ -1,0 +1,17 @@
+{
+  "name": "cours-threejs",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^4.0.4"
+  },
+  "dependencies": {
+    "three": "^0.148.0",
+    "three-orbitcontrols": "^2.110.3"
+  }
+}
